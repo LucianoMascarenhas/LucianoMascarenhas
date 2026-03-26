@@ -19,12 +19,13 @@
 
 ### 🚀 Sobre a minha atuação
 
-- 🏗️ Especialista na criação e evolução de **Arquiteturas Distribuídas**, aplicando padrões como CQRS e Event-Driven Architecture.
+- 🏗️ Sólida atuação na criação e evolução de **Arquiteturas Distribuídas**, aplicando Domain-Driven Design (DDD), CQRS e Event-Driven Architecture.
+- ♻️ Forte compromisso com a qualidade técnica através de **Clean Architecture** e **Clean Code**, com vivência prática na modernização, refatoração e migração de sistemas legados.
 - 💻 Domínio do ecossistema **.NET (C#)** para a construção de backends robustos e APIs de alto desempenho.
 - 🎨 Construção de interfaces modernas e responsivas utilizando **Angular** e **React**.
 - ⚙️ Vivência em cultura DevOps, gestão de ciclo de vida de aplicações com **Azure DevOps**, conteinerização avançada e versionamento com **Git**.
-- 🗄️ Modelagem estruturada de dados e performance de banco de dados, com forte atuação em **PostgreSQL**.
-- 💼 Atualmente aplicando engenharia de software e construindo soluções de alto impacto na **Projetta Tecnologia**.
+- 🗄️ Modelagem estruturada de dados e performance de banco de dados, com forte atuação em **Microsoft SQL Server** e **PostgreSQL**.
+- 💼 Atualmente aplicando engenharia de software e construindo soluções de alto impacto na **Solutis Tecnologia**.
 
 ---
 
@@ -57,10 +58,10 @@
 
 <div align="center">
   <a href="https://github.com/lucianomascarenhas">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucianomascarenhas&count_private=true&show_icons=true&theme=github_dark&locale=pt-br&layout=compact"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucianomascarenhas&count_private=true&show_icons=true&theme=github_dark&locale=pt-br&layout=compact"/>
   </a>
   <a href="https://github.com/lucianomascarenhas">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianomascarenhas&layout=compact&langs_count=6&theme=github_dark&locale=pt-br"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianomascarenhas&layout=compact&langs_count=6&theme=github_dark&locale=pt-br"/>
   </a>
 </div>
 
